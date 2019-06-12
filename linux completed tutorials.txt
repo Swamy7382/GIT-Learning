@@ -1,0 +1,23 @@
+
+1.	Command Line.........................................done
+2.	Linux Editors...............................................pending
+3.	Hardware info Commands...............................done
+4.	Terminal Shortcuts...................................done
+5.	User Management......................................done
+6.	Group Management.....................................done
+7.	Linux File System....................................done
+8.	Disk Partitions......................................done
+9.	Mount Points.........................................done
+10.	Directory Structure..................................done
+11.	Files and Permissions................................done
+12.	Text processing commands....................................blank
+13.	Search commands......................................done
+14.	Regular Expressions..................................done
+15.	Wildcards............................................done
+16.	Character classes...........................................Didn't understand
+17..	Network configuration and troubleshooting
+18.	Job Scheduling..............................................Doubt about crontab command and using 0's, *'s in scheduling
+19.	Linux Services..............................................systemctl not working properly
+20.	Linux Processes
+21..	RPM Package Management
+22..	YUM Package Management

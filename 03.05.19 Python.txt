@@ -1,0 +1,15 @@
+Python
+
+Variables
+List, Tuple, Set
+
+Datatypes:
+
+None, Numeric, List[], Tuple(), Set{}, String('abc'), Range, Dictionary
+
+Numeric - Integer(ex:7), Float(7.32), Complex(7+6j), Bool [Bollean](True or false)
+
+
+Operators:
+
+Arithmatic(+,-,*,/), Assignment(=), logical(And,Or,not),, relational(>,<,<=,>=,!=), unary(changes to -ve val)
